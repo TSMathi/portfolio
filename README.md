@@ -1,4 +1,0 @@
-## README_en = ENGLISH
-
-
-## README_es = SPANISH
